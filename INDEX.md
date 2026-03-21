@@ -33,13 +33,19 @@ This file provides an overview of the repository structure.
 │   ├── requirements/
 │   │   └── agent-framework-requirements.md
 │   └── research/
+│       ├── a2a-protocol.md
+│       ├── constraint-solvers.md
 │       ├── framework-landscape.md
-│       └── gitagent-analysis.md
+│       ├── gitagent-analysis.md
+│       ├── human-time-tracking.md
+│       └── mcp-specification.md
 ├── scripts/
 │   └── index/
 │       └── generate_index.py
+├── .gitignore
 ├── CLAUDE.md
 ├── CLAUDE_START.md
+├── INDEX.md
 └── README.md
 ```
 <!-- GENERATED:END -->
